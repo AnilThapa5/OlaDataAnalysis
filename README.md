@@ -152,7 +152,7 @@ OlaDataAnalysis/
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 This project was developed as a learning exercise using publicly available educational resources and online tutorials. The dataset and dashboard were created for educational and portfolio purposes.
 
