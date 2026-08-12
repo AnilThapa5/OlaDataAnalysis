@@ -1,0 +1,101 @@
+Name,Salary,Address,Date
+Emma,88000,Paris,1/18/2020
+Emma,72000,New York,2/4/2020
+John,88000,New York,2/21/2020
+John,88000,Dubai,3/9/2020
+Lily,72000,New York,3/26/2020
+Bob,45000,London,4/12/2020
+Alice,45000,Dubai,4/29/2020
+David,45000,Sydney,5/16/2020
+Emma,N/A,New York,6/2/2020
+Bob,61000,Paris,6/19/2020
+David,88000, ,7/6/2020
+David,45000,Berlin,7/23/2020
+Emma,88000,Sydney,8/9/2020
+Nina,52000,London,26/08/2020
+Sara,88000,Paris,9/12/2020
+Emma,72000,Kathmandu,9/29/2020
+chris  ,52000,Kathmandu,10/16/2020
+Alice,72000,Sydney,11/2/2020
+Lily,88000,Kathmandu,11/19/2020
+Nina,88000,London,12/6/2020
+Nina,45000,Delhi,12/23/2020
+,72000,Berlin,1/9/2021
+Sara,88000,New York,1/26/2021
+Lily,72000,Delhi,2/12/2021
+John,72000,Sydney,3/1/2021
+Chris,61000,Kathmandu,3/18/2021
+Sara,52000,Sydney,4/4/2021
+Sara,45000,New York,21/04/2021
+Emma,61000,Berlin,2023/15/01
+Emma,72000,Delhi,5/25/2021
+Chris,88000,London,6/11/2021
+Sara,52000,London,6/28/2021
+Emma,NULL,Kathmandu,7/15/2021
+sara  ,45000,Kathmandu,8/1/2021
+Alice,45000,Paris,8/18/2021
+Bob,45000,Berlin,9/4/2021
+Emma,52000,New York,9/21/2021
+Alice,72000,London,10/8/2021
+David,61000,Berlin,10/25/2021
+Chris,61000,Toronto,11/11/2021
+Sara,45000,Delhi,11/28/2021
+Chris,61000,Toronto,15/12/2021
+Alice,88000,Dubai,1/1/2022
+Lily,88000,Kathmndu,1/18/2022
+Lily,52000,Sydney,2/4/2022
+David,61000,Sydney,2/21/2022
+Nina,72000,New York,3/10/2022
+John,45000,Delhi,3/27/2022
+Lily,88000,Kathmandu,4/13/2022
+Nina,88000,Toronto,4/30/2022
+nina  ,88000,Toronto,5/17/2022
+John,52000,Berlin,6/3/2022
+David,52000,Sydney,6/20/2022
+Mike,52000,Tokyo,7/7/2022
+John,-5000,London,7/24/2022
+Emma,72000,Toronto,10/8/2022
+John,72000,Sydney,8/27/2022
+Lily,45000,London,9/13/2022
+Lily,88000,Sydney,9/30/2022
+Sara,72000,Tokyo,10/17/2022
+Sara,45000,London,11/3/2022
+John,45000,London,11/20/2022
+Lily,45000,Berlin,12/7/2022
+John,61000,Kathmandu,12/24/2022
+Emma,45000,Dubai,1/10/2023
+David,72000,Sydney,1/27/2023
+Chris,72000,Tokyo,2/13/2023
+mike  ,45000,Paris,3/2/2023
+Lily,45000,Dubai,3/19/2023
+Emma,52000,Toronto,5/4/2023
+David,72000,London,4/22/2023
+Bob,72000,Toronto,5/9/2023
+Sara,45000,Paris,5/26/2023
+Nina,88000,Tokyo,6/12/2023
+Sara,61000,Kathmandu,6/29/2023
+Mike,72000,Delhi,7/16/2023
+Bob,abc,Paris,8/2/2023
+Mike,72000,Kathmandu,8/19/2023
+Bob,72000,London,9/5/2023
+Bob,72000,London,9/22/2023
+Bob,45000,Paris,10/9/2023
+David,88000,Paris,10/26/2023
+Lily,88000,Kathmandu,11/12/2023
+David,45000,New York,29/11/2023
+david  ,72000,Berlin,12/16/2023
+Alice,61000,New York,1/2/2024
+Nina,72000,Berlin,1/19/2024
+Sara,61000,London,2/5/2024
+David,52000,Dubai,2/22/2024
+Alice,61000,Delhi,3/10/2024
+Lily,52000,Delhi,3/27/2024
+Alice,88000,Paris,4/13/2024
+Chris,61000,Toronto,4/30/2024
+Mike,45000,Berlin,5/17/2024
+Nina,72000,New York,6/3/2024
+Mike,52000,Paris,6/20/2024
+John,88000,Sydney,7/7/2024
+Emma,88000,Berlin,24/07/2024
+Lily,72000,Kathmandu,8/10/2024
+Emma,72000,Sydney,8/27/2024
